@@ -4,6 +4,8 @@ Setting up a Node.js project
 
 Steps:
 
-clone the repository
-run npm init
-install the packages 
+1.) clone the repository
+
+2.)run npm init
+
+3.)install the packages 
